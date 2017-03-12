@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+body{
+	font-family: 'Bad Script';
+	margin: 0px;	
+}
+.site-header h1{
+	text-align: center;
+	width: 500px;
+	position: relative;	
+	bottom: 140px;
+	left: 170px;	
+	font-size: 45px;
+	font-style: italic;
+	color: #993D34;
+	margin: 0px;
+	text-shadow: 2px 1px 1px #3F0C00;
+}
+.site-header .nav-bar ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 20px;	
+}
+.site-header div{
+	
+	text-align: center;
+	margin-top: 0px;
+}
+.header-img img{
+	margin-top: 40px;
+}
+.nav-bar{
+	background:#EAE9EC;		
+}
+.nav-bar ul{
+	margin-top: 0px;
+	margin-right: 300px;		
+}
+.site-header,.nav-bar ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+}
+.user{
+	float: right;
+	margin-right: 40px;
+}
+.nav-bar ul li a:hover{
+	color: #993D34;
+	cursor: pointer;
+	box-sizing: border-box;
+	border-bottom: 5px solid #993D34;
+}
