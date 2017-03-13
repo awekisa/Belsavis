@@ -1,0 +1,84 @@
+
+section article{
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    /*box-shadow: 2px 3px 3px 3px rgba(238, 144, 5, 0.2);*/
+    border-radius: 7px;
+
+}
+
+.recipe-blue{
+    width: 40%;
+
+    background: linear-gradient(to top, rgba(102, 218, 255, 0.54), rgba(102, 218, 255, 0.84));
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 5px;
+    height: 400px;
+    box-shadow: 2px 3px 3px 3px rgba(102, 218, 255, 0.84)
+}
+
+.recipe-blue h1{
+    text-align: center;
+    color: rgb(55, 73, 122);
+    font-size: 30px;
+    font-family: "Cambria Math";
+    margin: 10px 0 20px 0;
+}
+
+.recipe-green .recipe-image, .recipe p{
+    /*display: inline-block;*/
+    /*vertical-align: top;*/
+}
+
+.recipe-blue .recipe-image{
+    margin: 0 auto;
+    width: calc(50% - 10px);
+    box-sizing: border-box;
+    border: none;
+}
+
+.recipe-blue .recipe-image img{
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 2px 4px 4px 4px rgba(10, 32, 90, 0.62);
+    border-radius: 10px;
+
+}
+
+.recipe-blue p{
+    font-family: "Cambria Math";
+    font-size: 20px;
+    color: rgb(55, 73, 122);
+    width: 70%;
+    padding: 8px;
+    margin: 20px auto;
+    font-weight: bold;
+
+}
+
+.recipe-blue a:last-child{
+    margin: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+
+    padding: 5px 10px;
+    border-radius: 7px;
+    color: white;
+    background-color: rgb(192, 86, 4);
+}
+
+.recipe-blue a:first-of-type{
+
+    text-decoration: none;
+    text-transform: uppercase;
+
+    padding: 5px 10px;
+    border-radius: 7px;
+    color: white;
+    background-color: rgb(192, 86, 4);
+}
