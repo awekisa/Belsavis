@@ -1,0 +1,86 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+    background: url('images/cutting-board.jpg') no-repeat;
+    background-size: cover;
+    font-size: 24px;
+    font-family: FontAwesome;
+}
+
+main{
+    padding: 30px;
+    border: 1px solid green;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 2px 2px black;
+}
+
+ul{
+    list-style: none;
+    padding-left: 70px;
+}
+
+ul li{
+    line-height: 24px;
+    border-bottom: 3px dashed white;
+    text-align: left;
+}
+
+ul li p{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 10px;
+    color: #fff;
+    text-shadow: 2px 5px 5px black;
+}
+ul li p:first-of-type{
+    width:35%;
+}
+
+ul li p:first-of-type:before{
+
+    content: '\f058';
+    padding-right: 10px;
+    vertical-align: middle;
+    font-size:30px;
+}
+
+ul li p:last-of-type{
+    width: 35%;
+}
+
+main > p{
+    text-align: right;
+    color: white;
+    text-shadow: 2px 5px 5px black;
+    padding: 0 30px;
+
+}
+
+main > button{
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    text-shadow: 2px 5px 5px black;
+    border: 3px solid white;
+    font-size: 20px;
+    font-weight:700;
+    box-shadow: 2px 2px 2px rgba(128, 128, 128, 0.35);
+    margin-top: 20px;
+}
+
+main > button:hover{
+    background-color: white;
+
+    color: black;
+    text-shadow: 1px 1px 1px grey;
+    cursor: pointer;
+
+}
