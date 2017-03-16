@@ -1,0 +1,81 @@
+
+section article{
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.recipe-orange{
+    width: 40%;
+    background: linear-gradient(to top, rgba(255, 183, 94, 0.2), rgba(238, 144, 5, 0.5));
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 5px;
+    box-shadow: 2px 3px 3px 3px rgba(238, 144, 5, 0.2);
+}
+
+.recipe-orange h1{
+    text-align: center;
+    color: #a54631;
+    font-size: 30px;
+    /*font-family: "Cambria Math";*/
+    margin: 10px 0 20px 0;
+}
+
+.recipe .recipe-image, .recipe p{
+    /*display: inline-block;*/
+    /*vertical-align: top;*/
+}
+
+.recipe-orange .recipe-image{
+    margin: 0 auto;
+    width: calc(50% - 10px);
+    box-sizing: border-box;
+    border: none;
+
+
+}
+
+.recipe-orange .recipe-image img{
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 2px 4px 4px 4px #a54631;
+    border-radius: 10px;
+
+}
+
+.recipe-orange p{
+    /*font-family: "Cambria Math";*/
+    font-size: 20px;
+    color: #a54631;
+    width: 70%;
+    padding: 8px;
+    margin: 20px auto;
+    font-weight: bold;
+
+}
+
+.recipe-orange a:last-child{
+    margin: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+
+    padding: 5px 10px;
+    border-radius: 7px;
+    color: rgb(253, 232, 203);
+    background-color: #a54631;
+}
+
+.recipe-orange a:first-of-type{
+
+    text-decoration: none;
+    text-transform: uppercase;
+
+    padding: 5px 10px;
+    border-radius: 7px;
+    color: rgb(253, 232, 203);
+    background-color: #a54631;
+}

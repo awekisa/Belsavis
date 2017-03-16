@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+
+main{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+section article{
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+    border-radius: 7px;
+    font-family: 'Bad Script';
+}
+
