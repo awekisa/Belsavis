@@ -1,11 +1,32 @@
 @import url('https://fonts.googleapis.com/css?family=Bad+Script');
 
 main{
-    margin-bottom: 50px;
+    /*margin-bottom: 50px;*/
     text-align: center;
 }
 
-section article{
+section#site-description{
+    background: linear-gradient(to top, rgba(82, 255, 64, 0.67), rgba(238, 210, 56, 0.38), rgba(255, 167, 203, 0.82));
+    padding: 50px 100px;
+}
+section#site-description ol li{
+    text-align: left;
+    padding-left: 10px;
+}
+
+div#color-connection{
+    background: linear-gradient(to bottom, rgba(255, 188, 59, 0.76), rgba(116, 155, 238, 0.52), rgba(226, 93, 255, 0.6));
+}
+
+section#bottom-color-connection{
+    background: linear-gradient(to bottom, rgba(136, 44, 255, 0.58), rgba(101, 96, 230, 0.71), rgba(203, 206, 255, 0.79));
+}
+
+
+section#recipes #color-connection{
+    margin: 5px 0 0;
+}
+section#recipes article{
     display: inline-block;
     vertical-align: top;
     margin: 10px;
@@ -13,5 +34,10 @@ section article{
     position: relative;
     border-radius: 7px;
     font-family: 'Bad Script';
+    transition: all 0.5s ease;
+}
+
+section#recipes article:hover{
+    transform: scale(1.05);
 }
 
