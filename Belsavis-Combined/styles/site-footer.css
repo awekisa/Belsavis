@@ -1,25 +1,16 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-/*header{*/
-    /*height: 80px;*/
-    /*border: 1px solid black;*/
-/*}*/
-/*main{*/
-    /*height: 100px;*/
-    /*border: 1px solid black;*/
-/*}*/
-
-
 .first-part-footer{
     background: #E8E8E8;
     text-align: center;
     margin: auto;
+    width: 100%;
 }
-.first-part-footer .newsletter-form{
+.newsletter-form{
     width:300px;
     text-align: left;
     padding: 10px;
 }
-.first-part-footer .newsletter-form h2{
+.newsletter-form h2{
     color: gray;
     margin-bottom: 5px;
 }
@@ -31,16 +22,18 @@
 }
 .enter-email{
     position: relative;
+    margin-top: 70px;
 }
 .fa-arrow-circle-right{
     position: absolute;
-    color: #B73B56;
+    color: lightgray;
     font-size: 32px;
     right:4px;
     top: 1px;
 }
 .fa-arrow-circle-right:hover{
     cursor: pointer;
+    color:#B73B56 ;
 }
 .first-part-footer article, div{
     display: inline-block;
@@ -49,7 +42,8 @@
     font-size: 44px;
     color:#B73B56;
     border-right: 2px dashed #B0B0B0;
-    padding: 15px 10px 0px;
+    padding-right: 10px;
+    margin-top:17px ;
 }
 .resizing-div{
     width: 77%;
@@ -58,11 +52,11 @@
 .second-part-footer{
     background: url("../images/background.jpeg") no-repeat center center;
     background-size: cover;
-    overflow: hidden;
-    --background-attachment: fixed;
+    --overflow: auto;
+    width: 100%;
 }
 .join-community{
-    margin: 40px auto 0;.
+    margin: 40px auto 0;
 .}
 .join-community h2{
     font-family: "Comic Sans MS", sans-serif;
@@ -78,6 +72,9 @@
 }
 .second-part-footer .list-more-details{
     width: 100%;
+}
+.list-more-details{
+    margin-left: 35px;
 }
 .list-more-details ul{
     display: inline-block;
@@ -106,8 +103,34 @@
 }
 .rights{
     width: 100%;
-    margin: 20px 0 0;
     font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px 0 10px;
+}
+
+
+@media only screen and (max-width: 890px) {
+    .list-more-details{
+        margin: auto;
+    }
+    .list-more-details ul{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .fa-envelope-o{
+        display: none;
+    }
+}
+@media only screen and (max-width: 567px){
+    .enter-email {
+        margin-top: auto;
+    }
+}
+@media only screen and (max-width: 410px){
+    .resizing-div{
+        width: 100%;
+    }
 }
 *{
     margin: 0;
