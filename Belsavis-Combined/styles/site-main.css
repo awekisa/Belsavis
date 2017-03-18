@@ -8,6 +8,17 @@ main{
 section#site-description{
     background: linear-gradient(to top, rgba(82, 255, 64, 0.67), rgba(238, 210, 56, 0.38), rgba(255, 167, 203, 0.82));
     padding: 50px 100px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+section#site-description p{
+    margin-bottom: 20px;
+}
+section#site-description div:nth-child(1){
+    margin-bottom: 20px;
+}
+section#site-description ol{
+    margin-bottom: 20px;
 }
 section#site-description ol li{
     text-align: left;
@@ -22,12 +33,24 @@ section#bottom-color-connection{
     background: linear-gradient(to bottom, rgba(136, 44, 255, 0.58), rgba(101, 96, 230, 0.71), rgba(203, 206, 255, 0.79));
 }
 
-
+section#recipes{
+    border-top: 1px dashed #ffcb51;
+}
+section#recipes>p{
+    background: linear-gradient(to right, rgba(255, 171, 31, 0.84), rgba(252, 255, 177, 0.79), rgba(82, 255, 64, 0.63));
+    margin-bottom: 10px;
+    word-wrap: break-word;
+}
 section#recipes #color-connection{
     margin: 5px 0 0;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 20px;
 }
 section#recipes article{
-    display: inline-block;
+    width: 22%;
+    align-items: stretch;
     vertical-align: top;
     margin: 10px;
     text-align: center;
@@ -36,8 +59,63 @@ section#recipes article{
     font-family: 'Bad Script';
     transition: all 0.5s ease;
 }
+section#recipe article .buttons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+section#recipe article .buttons a{
+    flex: 1;
+    margin: 15px;
+}
 
 section#recipes article:hover{
     transform: scale(1.05);
+}
+
+section#recipes #color-connection > div:first-of-type{
+    width: 100%;
+    margin-top: 10px;
+}
+section#recipes #color-connection > div:nth-child(2){
+    padding: 20px;
+    width: 100%;
+}
+section#recipes #color-connection form ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+section#recipes #color-connection form ul li{
+    flex-basis: 30%;
+    text-align: left;
+}
+section#recipes #color-connection form ul li label{
+    margin-left: 5px;
+}
+section#recipes #color-connection form > input{
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: transparent;
+    /*color: rgba(68, 196, 251, 0.89);*/
+    text-align: right;
+    border: 2px solid rgba(74, 218, 245, 0.71);
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: "Bad Script";
+}
+
+section#recipes #color-connection form > input:hover{
+    background-color: rgba(74, 218, 245, 0.71);
+    color: #fff;
+    cursor: pointer;
+}
+
+
+
+section#bottom-color-connection{
+    margin-top: 10px;
 }
 
