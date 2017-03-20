@@ -2,8 +2,14 @@
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 body{
 	font-family: 'Bad Script', sans-serif;
-	margin: 0px;	
+	margin: 0px;
 }
+header{
+	height: 300px;
+	background: url("image/Jamie_header.jpg") no-repeat;
+	background-size:cover;
+}
+
 .site-header img{
 	/*position: absolute;*/
 	left: 0px;

@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c8626ac-9637-47e7-a723-10975179712c" name="Default" comment="" />
+    <list default="true" id="9c8626ac-9637-47e7-a723-10975179712c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/app1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/app2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/app4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/app6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/desert2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/desert3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/desert4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/desert5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/desert6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/desert8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/pica1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/pica2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/pica3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/pica4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/pica5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/pica6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/salata3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/salata4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/salata5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/salata6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/salata7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/salata8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/soup2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/soup3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/soup4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/vegi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/vegi4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/vegi5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/vegi6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/vegi7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/image/vegi8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/app1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/app2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/app4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/app6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/desert2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/desert3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/desert4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/desert5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/desert6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/desert8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/pica1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/pica2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/pica3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/pica4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/pica5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/pica6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/salata3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/salata4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/salata5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/salata6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/salata7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/salata8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/soup2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/soup3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/soup4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/vegi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/vegi4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/vegi5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/vegi6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/vegi7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/image/vegi8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/image/meal-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/image/meal-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/image/meal-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/image/meal-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/image/meal-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/image/meal-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/icons-folder/background.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/icons-folder/facebook-icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/icons-folder/pinterest-icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/icons-folder/twitter-icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/icons-folder/youtube-icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/Predqstiq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Appetizer/appetizer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/Dessert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Dessert/Dessert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/MainCourse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/MainCourse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/recipes/main-course-meal-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/recipes/main-course-meal-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/recipes/main-course-meal-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/recipes/main-course-meal-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/recipes/main-course-meal-5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/recipes/main-course-meal-6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Pizza/Pizza.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Pizza/Pizza.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Salad/Salad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Salad/Salad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Soup/Soup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Soup/Soup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Vegetarian dishes/Veg-food.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/Vegetarian dishes/veg-food.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/icons-folder/footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final-Project/Site/icons-folder/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final-Project/Site/footer.css" afterPath="$PROJECT_DIR$/Final-Project/Site/footer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final-Project/Site/header.css" afterPath="$PROJECT_DIR$/Final-Project/Site/header.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final-Project/Site/header.html" afterPath="$PROJECT_DIR$/Final-Project/Site/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final-Project/Site/index.html" afterPath="$PROJECT_DIR$/Final-Project/Site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final-Project/Site/styles-main.css" afterPath="$PROJECT_DIR$/Final-Project/Site/styles-main.css" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,21 +125,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Header.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Belsavis Team Project/Header/Header.html">
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="154">
+              <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Belsavis Team Project/index.html">
+      <file leaf-file-name="Salad.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/Salad/Salad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="466">
+              <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Soup.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/Soup/Soup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Veg-food.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/Vegetarian dishes/Veg-food.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="156" column="9" lean-forward="false" selection-start-line="156" selection-start-column="9" selection-end-line="156" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Soup.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/Soup/Soup.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainCourse.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/MainCourse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="143" column="52" lean-forward="true" selection-start-line="143" selection-start-column="52" selection-end-line="143" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="52" column="9" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="52" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="43" column="13" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="43" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pizza.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final-Project/Site/Pizza/Pizza.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -43,8 +227,31 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imag</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Final-Project/Site/footer.css" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/styles-main.css" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/header.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/index.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/header.css" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/Appetizer/Predqstiq.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/Dessert/Dessert.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/MainCourse.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/Pizza/Pizza.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/Salad/Salad.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/Soup/Soup.html" />
+        <option value="$PROJECT_DIR$/Final-Project/Site/Vegetarian dishes/Veg-food.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -55,8 +262,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1050" />
+    <option name="width" value="1384" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -96,7 +303,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Belsavis Team Project" />
+              <option name="myItemId" value="Final-Project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -110,11 +317,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Belsavis Team Project" />
+              <option name="myItemId" value="Final-Project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Header" />
+              <option name="myItemId" value="Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Belsavis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Belsavis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final-Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vegetarian dishes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -128,10 +357,15 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../Node JS/node" />
+    <property name="nodejs_interpreter_path" value="D:/../Node JS/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Belsavis\Final-Project\Site" />
+    </key>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -145,17 +379,18 @@
       <updated>1489597105634</updated>
       <workItem from="1489597118715" duration="614000" />
       <workItem from="1489659446517" duration="673000" />
+      <workItem from="1490023582864" duration="2105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1287000" />
+    <option name="totallyTimeSpent" value="3392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24887893" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -202,8 +437,168 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Belsavis Team Project/Header/Header.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belsavis Team Project/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belsavis Team Project/Header/Header.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/icons-folder/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/responsive-main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/styles-main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Vegetarian dishes/veg-food.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Appetizer/Predqstiq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Dessert/Dessert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/MainCourseMeals/MainCourse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="143" column="52" lean-forward="true" selection-start-line="143" selection-start-column="52" selection-end-line="143" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Pizza/Pizza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Salad/Salad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Soup/Soup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Soup/Soup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="43" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="52" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final-Project/Site/Vegetarian dishes/Veg-food.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="156" column="9" lean-forward="false" selection-start-line="156" selection-start-column="9" selection-end-line="156" selection-end-column="9" />
           <folding />
         </state>
       </provider>

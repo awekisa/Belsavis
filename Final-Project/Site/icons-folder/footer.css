@@ -1,13 +1,11 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-
-
 .first-part-footer{
     background: #E8E8E8;
     text-align: center;
     margin: auto;
     width: 100%;
 }
-footer .newsletter-form {
+.newsletter-form{
     width:300px;
     text-align: left;
     padding: 10px;
@@ -52,7 +50,7 @@ footer .newsletter-form {
     text-align: center;
 }
 .second-part-footer{
-    background: url("image/background.jpeg") no-repeat center center;
+    background: url("background.jpeg") no-repeat center center;
     background-size: cover;
     --overflow: auto;
     width: 100%;
