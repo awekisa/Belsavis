@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+body{
+    font-family: 'Bad Script';
+    margin: 0px;
+
+}
+
+main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: center;
+
+}
+
+section{
+    flex: 4;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+article{
+    box-shadow: 3px 3px 5px rgba(128, 128, 128, 0.59);
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    background: lightblue;
+}
+section article img{
+    float: left;clear:none;    /*removes whitespace*/
+    width: 300px;
+    height: 240px;
+    margin: 0 auto;
+
+}
+article div{
+    float: left;clear:none; /*removes whitespace*/
+    width: 100%;
+    text-align: center;
+    display: block;
+    background: lightblue;
+    margin: 0;
+
+}
+article div h1{
+    margin: 0px;
+}
+article img:hover div {
+    display: block;
+    background-color: black;
+}
+
+
+aside{
+
+    background-color: lightblue;
+    flex: 1;
+}
+aside div{
+    text-align: center;
+    margin: 40px;
+    border-bottom: 1px solid white;
+}
+aside div a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+aside div a:hover{
+    color: chocolate;
+}
+
+
+@media screen and(max-width: 1300px){
+    section{
+        flex: 3;
+        background-color: red;
+    }
+    main>section>article{
+        width: 300px;
+        height: 240px;
+    }
+    main>section>article>img{
+        width: 100%;
+    }
+}
+
+@media all and(max-width: 1024px){
+    main>section{
+        /*flex:2;*/
+    }
+    main>article{
+        /*width: 300px;*/
+        /*height: auto;*/
+    }
+    main>article{
+        /*width: 100%;*/
+    }
+}
+
+@media all and(max-width: 960px){
+
+}
+
+@media all and (max-width: 768px) {
+
+}
+
+@media all and (max-width: 640px) {
+
+}
+@media all and (max-width: 480px) {
+
+}
+@media all and (max-width: 320px) {
+
+}
