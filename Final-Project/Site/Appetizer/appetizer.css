@@ -39,10 +39,10 @@ article div{
 	display: block;
 	background: lightblue;
 	margin: 0;
-
 }
-article div h1{
+article div a{
 	margin: 0px;
+	
 }
 article img:hover div {
 	display: block;
