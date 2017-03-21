@@ -29,9 +29,9 @@
 .fa-arrow-circle-right{
     position: absolute;
     color: lightgray;
-    font-size: 32px;
-    right:4px;
-    top: 1px;
+    font-size: 32px !important;
+    right:4px !important;
+    top: 1px !important;
 }
 .fa-arrow-circle-right:hover{
     cursor: pointer;
@@ -41,7 +41,7 @@
     display: inline-block;
 }
 .fa-envelope-o{
-    font-size: 44px;
+    font-size: 44px !important;
     color:#B73B56;
     border-right: 2px dashed #B0B0B0;
     padding-right: 10px;
